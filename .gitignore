@@ -1,0 +1,3 @@
+# Ignore MacOS TEMP file
+*.DS_Store
+
